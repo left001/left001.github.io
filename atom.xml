@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://left001.github.io</id>
     <title>left</title>
-    <updated>2019-05-30T09:16:23.054Z</updated>
+    <updated>2019-05-31T01:57:36.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://left001.github.io"/>
     <link rel="self" href="https://left001.github.io/atom.xml"/>
@@ -10,6 +10,34 @@
     <logo>https://left001.github.io/images/avatar.png</logo>
     <icon>https://left001.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, left</rights>
+    <entry>
+        <title type="html"><![CDATA[一个人的照片和一个人本人是两件多么不同的事]]></title>
+        <id>https://left001.github.io/post/yi-ge-ren-de-zhao-pian-he-yi-ge-ren-ben-ren-shi-liang-jian-duo-me-bu-tong-de-shi</id>
+        <link href="https://left001.github.io/post/yi-ge-ren-de-zhao-pian-he-yi-ge-ren-ben-ren-shi-liang-jian-duo-me-bu-tong-de-shi">
+        </link>
+        <updated>2019-05-31T00:30:07.000Z</updated>
+        <content type="html"><![CDATA[<p>1<br>
+最近两天都在看老喻的文章。<br>
+老喻原名喻颖正，是公众号孤独大脑的作者，在得到上也开过课。<br>
+最开始关注孤独大脑就是听得到里罗胖提过一嘴，关注之后觉得老喻真是想问题透彻且表达能力够好的人。<br>
+今天看到他之前一篇文章里写“我也第一次意识到一个人的照片和一个人本人是两件多么不同的事。”<br>
+一个人的照片和一个人本人是两件多么不同的事。<br>
+一个人的表象和一个人本质又是两件多么不同的事。</p>
+<p>2<br>
+昨晚在一个交友群里，有姑娘问道，大家是否在意对方学历。很多姑娘说不在意，聊得来就行，有很多学历高的都成了书呆子，有些学历差的也还是能聊得来。<br>
+我表示不认同，学历还是我比较在意的。<br>
+如果是找个人一起玩儿、谈恋爱，那只要看聊得来玩得来吃得来就好了；<br>
+但如果是要找一个长久在一起或者结婚对象的话，我认为学历还是要考量的，双方尽可能旗鼓相当。</p>
+<p>3<br>
+昨晚看到几句话，觉得有道理，放在这里记录，自勉。<br>
+· 永远不要问你不想知道答案的问题<br>
+· 过度自我关注是万恶之源<br>
+· 永远不要为尚未发生的事儿拧巴<br>
+恩宜自淡而浓，先浓后淡者，人忘其惠；<br>
+威宜自严而宽，先宽后严者，人怨其酷。<br>
+觉得为时已晚的时候，恰恰是最早的时候</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MUTE ENCOUNTERS-Bruno Walpoth--4月30看展记录]]></title>
         <id>https://left001.github.io/post/mute-encounters</id>
